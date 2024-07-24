@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35111.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documentation", "documentation", "{CE5B7691-C95B-4B01-8D8F-2C5F66206ADE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{248DBAEB-7B40-46B0-B8FC-BFAC49AE5FA2}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{248DBAEB-7B40-46B0-B8FC-BFAC49AE5FA2} = {CE5B7691-C95B-4B01-8D8F-2C5F66206ADE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE72B8C-4EE9-4355-B0A7-30686CAD9C2F}
+	EndGlobalSection
+EndGlobal
