@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{91
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{AD4FA052-1FC9-4DC2-A887-5F2A872052C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "Catalog.API\Catalog.API.csproj", "{1A6E4C19-7C0D-4D84-A31E-486E650CE212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.API", "Services\Catalog\Catalog.API\Catalog.API.csproj", "{D686E61D-8FD6-4EFB-A364-667F94863DBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1A6E4C19-7C0D-4D84-A31E-486E650CE212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A6E4C19-7C0D-4D84-A31E-486E650CE212}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A6E4C19-7C0D-4D84-A31E-486E650CE212}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A6E4C19-7C0D-4D84-A31E-486E650CE212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D686E61D-8FD6-4EFB-A364-667F94863DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D686E61D-8FD6-4EFB-A364-667F94863DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D686E61D-8FD6-4EFB-A364-667F94863DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D686E61D-8FD6-4EFB-A364-667F94863DBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,7 +33,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{248DBAEB-7B40-46B0-B8FC-BFAC49AE5FA2} = {CE5B7691-C95B-4B01-8D8F-2C5F66206ADE}
 		{AD4FA052-1FC9-4DC2-A887-5F2A872052C5} = {9113E179-F59A-44A3-B8BB-98E7C9DC90D7}
-		{1A6E4C19-7C0D-4D84-A31E-486E650CE212} = {AD4FA052-1FC9-4DC2-A887-5F2A872052C5}
+		{D686E61D-8FD6-4EFB-A364-667F94863DBA} = {AD4FA052-1FC9-4DC2-A887-5F2A872052C5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DE72B8C-4EE9-4355-B0A7-30686CAD9C2F}
